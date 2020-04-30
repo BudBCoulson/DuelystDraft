@@ -1,0 +1,834 @@
+- mana cost,- name,- faction,- faction number,- type,- set,- rarity,- rating,- tribe,- id
+1,Bloodtear Alchemist,Neutral,0,Minion,Core,Common,65,,19052
+1,Dragonlark,Neutral,0,Minion,Core,Common,40,,10001
+1,Dreamgazer,Neutral,0,Minion,Core,Epic,50,,11022
+1,Helm of MECHAZ0R,Neutral,0,Minion,Core,Common,15,Mech,19002
+1,Koi,Neutral,0,Minion,Shim'Zar,Common,5,Battle Pet,11053
+1,Komodo Charger,Neutral,0,Minion,Core,Common,25,,10018
+1,Mirrorrim,Neutral,0,Minion,Mythron,Common,15,,11141
+1,Planar Scout,Neutral,0,Minion,Core,Common,20,,10019
+1,Prophet of the White Palm,Neutral,0,Minion,Core,Rare,15,,11016
+1,Swamp Entangler,Neutral,0,Minion,Core,Common,30,,19025
+2,Aethermaster,Neutral,0,Minion,Core,Epic,45,Arcanyst,10993
+2,Amu,Neutral,0,Minion,Shim'Zar,Common,5,Battle Pet,11001
+2,Araki Headhunter,Neutral,0,Minion,Core,Epic,55,,11017
+2,Araras Prophet,Neutral,0,Minion,Mythron,Rare,40,Arcanyst,11152
+2,Azure Herald,Neutral,0,Minion,Core,Common,50,,11084
+2,Azure Horn Shaman,Neutral,0,Minion,Core,Rare,65,,19050
+2,Bluetip Scorpion,Neutral,0,Minion,Core,Common,25,,19029
+2,Carcynus,Neutral,0,Minion,Unearthed,Common,50,,11102
+2,Celebrant,Neutral,0,Minion,Ancients,Rare,65,Golem,11098
+2,Cryptographer,Neutral,0,Minion,Ancients,Common,50,,11088
+2,Ephemeral Shroud,Neutral,0,Minion,Core,Common,60,,10020
+2,Flameblood Warlock,Neutral,0,Minion,Core,Rare,45,,19051
+2,Fortuneshaper,Neutral,0,Minion,Core,Rare,65,,11101
+2,Ghost Lynx,Neutral,0,Minion,Core,Common,30,,11009
+2,Golem Metallurgist,Neutral,0,Minion,Core,Rare,60,Golem,19038
+2,Healing Mystic,Neutral,0,Minion,Core,Common,55,,10981
+2,Jaxi,Neutral,0,Minion,Core,Common,70,,11014
+2,Lost Artificer,Neutral,0,Minion,Immortal,Rare,45,,11124
+2,Manaforger,Neutral,0,Minion,Core,Rare,55,Arcanyst,10302
+2,Maw,Neutral,0,Minion,Core,Common,65,,10979
+2,Metaltooth,Neutral,0,Minion,Immortal,Common,20,Mech,11123
+2,Piercing Mantis,Neutral,0,Minion,Core,Common,20,,19040
+2,Primus Fist,Neutral,0,Minion,Core,Common,65,,19037
+2,Recombobulus,Neutral,0,Minion,Immortal,Common,55,,11135
+2,Replicant,Neutral,0,Minion,Immortal,Common,10,Mech,11126
+2,Rescue-RX,Neutral,0,Minion,Immortal,Common,50,,11137
+2,Rock Pulverizer,Neutral,0,Minion,Core,Common,60,,19026
+2,Rust Crawler,Neutral,0,Minion,Core,Common,45,,10957
+2,Shiro Puppydragon,Neutral,0,Minion,Core,Common,70,,11046
+2,Sinister Silhouette,Neutral,0,Minion,Unearthed,Rare,45,,11109
+2,Skyrock Golem,Neutral,0,Minion,Core,Common,15,Golem,19048
+2,Sol,Neutral,0,Minion,Shim'Zar,Rare,0,Battle Pet,11066
+2,Vale Hunter,Neutral,0,Minion,Core,Common,70,,10021
+2,Wings of MECHAZ0R,Neutral,0,Minion,Core,Common,45,Mech,19003
+2,Wood-Wen,Neutral,0,Minion,Core,Common,40,,11075
+2,Z0r,Neutral,0,Minion,Shim'Zar,Epic,40,Battle Pet,11061
+2,Zyx,Neutral,0,Minion,Core,Rare,30,,11083
+3,Abjudicator,Neutral,0,Minion,Core,Rare,10,Arcanyst,11039
+3,Aer Pridebeak,Neutral,0,Minion,Mythron,Common,50,,11142
+3,Alcuin Loremaster,Neutral,0,Minion,Core,Epic,45,Arcanyst,10304
+3,Architect-T2K5,Neutral,0,Minion,Immortal,Epic,35,,11138
+3,Bastion,Neutral,0,Minion,Core,Epic,20,Structure,11038
+3,Blaze Hound,Neutral,0,Minion,Core,Common,40,,10013
+3,Bloodbound Mentor,Neutral,0,Minion,Immortal,Epic,60,,11125
+3,Bloodshard Golem,Neutral,0,Minion,Core,Common,35,Golem,10205
+3,Cannon of MECHAZ0R,Neutral,0,Minion,Core,Rare,65,Mech,19004
+3,Chaos Elemental,Neutral,0,Minion,Core,Epic,50,,10962
+3,Crimson Oculus,Neutral,0,Minion,Core,Rare,65,,19030
+3,Crossbones,Neutral,0,Minion,Core,Rare,90,,10953
+3,Day Watcher,Neutral,0,Minion,Core,Common,40,,11079
+3,Elkowl,Neutral,0,Minion,Core,Rare,50,,11076
+3,Futureshaker,Neutral,0,Minion,Core,Rare,55,,11100
+3,Ghoulie,Neutral,0,Minion,Ancients,Common,45,All,11090
+3,Golden Mantella,Neutral,0,Minion,Shim'Zar,Common,40,,11056
+3,Golem Vanquisher,Neutral,0,Minion,Core,Legendary,35,Golem,19039
+3,Hydrax,Neutral,0,Minion,Shim'Zar,Legendary,30,,11052
+3,Ion,Neutral,0,Minion,Shim'Zar,Rare,0,Battle Pet,11051
+3,Komodo Hunter,Neutral,0,Minion,Unearthed,Common,50,,11103
+3,Lady Locke,Neutral,0,Minion,Core,Legendary,40,,10987
+3,Mirkblood Devourer,Neutral,0,Minion,Core,Legendary,70,,19047
+3,Mogwai,Neutral,0,Minion,Core,Epic,50,,11008
+3,Orbo the Ostentatious,Neutral,0,Minion,Mythron,Legendary,50,,11145
+3,Prismatic Illusionist,Neutral,0,Minion,Core,Rare,50,Arcanyst,10303
+3,Prongbok,Neutral,0,Minion,Mythron,Common,50,,11148
+3,Putrid Dreadflayer,Neutral,0,Minion,Core,Common,50,,19033
+3,Redsteel Minos,Neutral,0,Minion,Immortal,Common,70,,11131
+3,Repulsor Beast,Neutral,0,Minion,Core,Common,65,,10016
+3,Rokadoptera,Neutral,0,Minion,Unearthed,Common,60,,11108
+3,Sand Burrower,Neutral,0,Minion,Core,Common,0,,10014
+3,Sapphire Seer,Neutral,0,Minion,Core,Common,45,,11027
+3,Sarlac the Eternal,Neutral,0,Minion,Core,Legendary,30,,19045
+3,Scarzig,Neutral,0,Minion,Mythron,Legendary,0,,11157
+3,Sellsoul,Neutral,0,Minion,Mythron,Rare,75,,11146
+3,Silvertongue Corsair,Neutral,0,Minion,Core,Rare,50,,10009
+3,Skywing,Neutral,0,Minion,Core,Rare,55,,11035
+3,Soboro,Neutral,0,Minion,Shim'Zar,Epic,50,,11058
+3,Sojourner,Neutral,0,Minion,Core,Rare,60,,19049
+3,Songweaver,Neutral,0,Minion,Core,Common,55,,10992
+3,Sun Seer,Neutral,0,Minion,Core,Common,35,Arcanyst,10301
+3,Sword of MECHAZ0R,Neutral,0,Minion,Core,Rare,40,Mech,19005
+3,Sworn Avenger,Neutral,0,Minion,Core,Epic,90,,10954
+3,Syvrel the Exile,Neutral,0,Minion,Core,Epic,65,,10974
+3,Venom Toth,Neutral,0,Minion,Core,Epic,50,,10960
+3,Void Hunter,Neutral,0,Minion,Core,Common,45,,10982
+3,Wild Tahr,Neutral,0,Minion,Unearthed,Common,55,,11105
+3,Wind Runner,Neutral,0,Minion,Core,Rare,60,,11007
+3,Wind Stopper,Neutral,0,Minion,Core,Common,10,,19010
+3,Wings of Paradise,Neutral,0,Minion,Core,Common,75,,11020
+3,Yun,Neutral,0,Minion,Shim'Zar,Common,25,Battle Pet,11004
+3,Zukong,Neutral,0,Minion,Shim'Zar,Legendary,30,,11059
+4,Arrow Whistler,Neutral,0,Minion,Core,Common,70,,11033
+4,Artifact Hunter,Neutral,0,Minion,Core,Epic,20,,10961
+4,Black Locust,Neutral,0,Minion,Core,Legendary,40,,11006
+4,Blistering Skorn,Neutral,0,Minion,Core,Common,65,,11043
+4,Bloodsworn Gambler,Neutral,0,Minion,Unearthed,Epic,60,,11122
+4,Calculator,Neutral,0,Minion,Shim'Zar,Epic,0,,11063
+4,Captain Hank Hart,Neutral,0,Minion,Core,Epic,65,,10989
+4,Chassis of MECHAZ0R,Neutral,0,Minion,Core,Epic,65,Mech,19006
+4,Decimus,Neutral,0,Minion,Core,Legendary,55,,11086
+4,Dioltas,Neutral,0,Minion,Core,Epic,90,,10976
+4,Emerald Rejuvenator,Neutral,0,Minion,Core,Rare,40,,10995
+4,Fatesealer,Neutral,0,Minion,Core,Rare,50,,11099
+4,Feralu,Neutral,0,Minion,Ancients,Rare,25,,11091
+4,Fire Spitter,Neutral,0,Minion,Core,Common,50,,10017
+4,Fizzling Mystic,Neutral,0,Minion,Mythron,Common,75,,11151
+4,Frostbone Naga,Neutral,0,Minion,Core,Common,75,,19042
+4,Gnasher,Neutral,0,Minion,Shim'Zar,Common,40,,11057
+4,Hailstone Golem,Neutral,0,Minion,Core,Common,75,Golem,10978
+4,Hsuku,Neutral,0,Minion,Mythron,Epic,50,,11159
+4,Lightbender,Neutral,0,Minion,Core,Rare,75,Arcanyst,10306
+4,Loreweaver,Neutral,0,Minion,Ancients,Rare,55,Arcanyst,11096
+4,Matter Shaper,Neutral,0,Minion,Unearthed,Rare,35,,11110
+4,Mindwarper,Neutral,0,Minion,Core,Rare,50,Arcanyst,10965
+4,Moebius,Neutral,0,Minion,Core,Epic,35,Arcanyst,10988
+4,Night Watcher,Neutral,0,Minion,Core,Epic,70,,11080
+4,Owlbeast Sage,Neutral,0,Minion,Core,Rare,80,Arcanyst,10305
+4,Primus Shieldmaster,Neutral,0,Minion,Core,Common,85,,19027
+4,"Purgatos, the Realmkeeper",Neutral,0,Minion,Core,Epic,60,,10991
+4,Razorcrag Golem,Neutral,0,Minion,Unearthed,Common,50,Golem,11106
+4,Riftwalker,Neutral,0,Minion,Mythron,Rare,70,,11150
+4,Saberspine Tiger,Neutral,0,Minion,Core,Common,45,,10012
+4,Sanguinar,Neutral,0,Minion,Ancients,Rare,50,,11087
+4,Silhouette Tracer,Neutral,0,Minion,Core,Common,75,,19044
+4,Spelljammer,Neutral,0,Minion,Core,Legendary,70,,10975
+4,Sphynx,Neutral,0,Minion,Core,Legendary,50,,11078
+4,Sun Elemental,Neutral,0,Minion,Core,Common,25,,11015
+4,Sunsteel Defender,Neutral,0,Minion,Core,Rare,75,,11028
+4,Sworn Sister L'Kian,Neutral,0,Minion,Core,Legendary,65,,11041
+4,Tethermancer,Neutral,0,Minion,Core,Rare,45,,11025
+4,Thorn Needler,Neutral,0,Minion,Core,Common,45,,19031
+4,Thunderhorn,Neutral,0,Minion,Unearthed,Epic,60,,11115
+4,Timekeeper,Neutral,0,Minion,Immortal,Common,5,,11139
+4,Unseven,Neutral,0,Minion,Core,Legendary,25,,11036
+4,White Widow,Neutral,0,Minion,Core,Rare,65,,11019
+4,Young Flamewing,Neutral,0,Minion,Core,Common,65,,19034
+5,Alcuin Fugitive,Neutral,0,Minion,Mythron,Legendary,40,Arcanyst,11144
+5,Alter Rexx,Neutral,0,Minion,Core,Legendary,45,Mech,11040
+5,Ash Mephyt,Neutral,0,Minion,Core,Common,25,,10983
+5,Beastbound Savage,Neutral,0,Minion,Shim'Zar,Rare,45,,11054
+5,Blue Conjurer,Neutral,0,Minion,Ancients,Rare,85,Arcanyst,11094
+5,Boulder Breacher,Neutral,0,Minion,Ancients,Rare,45,Golem,11092
+5,Brightmoss Golem,Neutral,0,Minion,Core,Common,80,Golem,10204
+5,Capricious Marauder,Neutral,0,Minion,Immortal,Rare,35,,11134
+5,Chakkram,Neutral,0,Minion,Core,Rare,45,,11042
+5,Chirpuka,Neutral,0,Minion,Mythron,Epic,80,,11154
+5,Dagger Kiri,Neutral,0,Minion,Core,Common,45,,10958
+5,Dancing Blades,Neutral,0,Minion,Core,Common,95,,10959
+5,DECEPTIB0T,Neutral,0,Minion,Immortal,Epic,50,Mech,11128
+5,Envybaer,Neutral,0,Minion,Core,Legendary,50,,11048
+5,Fireblazer,Neutral,0,Minion,Core,Common,55,,19028
+5,Firestarter,Neutral,0,Minion,Core,Rare,25,Arcanyst,11011
+5,Golden Justicar,Neutral,0,Minion,Core,Epic,60,,11034
+5,Grincher,Neutral,0,Minion,Core,Rare,70,,11049
+5,Hollow Grovekeeper,Neutral,0,Minion,Core,Legendary,65,,11024
+5,Impervious Giago,Neutral,0,Minion,Immortal,Rare,80,,11133
+5,Inquisitor Kron,Neutral,0,Minion,Shim'Zar,Legendary,85,,11064
+5,Ironclad,Neutral,0,Minion,Core,Epic,35,,11085
+5,Keeper of the Vale,Neutral,0,Minion,Core,Legendary,60,,11018
+5,Letigress,Neutral,0,Minion,Unearthed,Legendary,80,,11112
+5,Lux Ignis,Neutral,0,Minion,Core,Epic,50,,10973
+5,Necroseer,Neutral,0,Minion,Core,Common,50,,11031
+5,Quahog,Neutral,0,Minion,Unearthed,Rare,30,,11111
+5,Rawr,Neutral,0,Minion,Shim'Zar,Legendary,55,Battle Pet,11060
+5,Rogue Warden,Neutral,0,Minion,Core,Common,50,,19032
+5,Sunset Paragon,Neutral,0,Minion,Core,Epic,85,,11030
+5,Sworn Defender,Neutral,0,Minion,Core,Epic,80,,10955
+5,The High Hand,Neutral,0,Minion,Core,Common,30,,10985
+5,Theobule,Neutral,0,Minion,Unearthed,Legendary,35,,11114
+5,Trinity Wing,Neutral,0,Minion,Ancients,Legendary,40,Arcanyst,11097
+5,Twilight Sorcerer,Neutral,0,Minion,Core,Epic,55,,10022
+6,Archon Spellbinder,Neutral,0,Minion,Core,Legendary,60,Arcanyst,19043
+6,Bonereaper,Neutral,0,Minion,Core,Epic,95,,11023
+6,Deathblighter,Neutral,0,Minion,Core,Common,75,,10980
+6,Diamond Golem,Neutral,0,Minion,Core,Common,60,Golem,11037
+6,Dust Wailer,Neutral,0,Minion,Core,Rare,75,,11082
+6,Eclipse,Neutral,0,Minion,Core,Legendary,60,Arcanyst,10986
+6,Facestriker,Neutral,0,Minion,Core,Common,10,,11032
+6,First Sword of Akrane,Neutral,0,Minion,Core,Common,70,,10984
+6,Grimes,Neutral,0,Minion,Ancients,Rare,80,,11095
+6,Grove Lion,Neutral,0,Minion,Core,Epic,80,,11077
+6,Jax Truesight,Neutral,0,Minion,Core,Legendary,85,,10963
+6,Lodestar,Neutral,0,Minion,Mythron,Epic,30,,11153
+6,Magesworn,Neutral,0,Minion,Unearthed,Legendary,50,Arcanyst,11107
+6,Project Ω,Neutral,0,Minion,Immortal,Legendary,0,Mech,11127
+6,Q'orrhlma'a,Neutral,0,Minion,Immortal,Legendary,55,,11132
+6,Quartermaster Gauj,Neutral,0,Minion,Core,Legendary,45,,11081
+6,Ruby Rifter,Neutral,0,Minion,Core,Legendary,75,,11045
+6,S.I.L.V.E.R.,Neutral,0,Minion,Immortal,Legendary,25,Mech,11129
+6,Serpenti,Neutral,0,Minion,Core,Common,30,,10307
+6,Silverbeak,Neutral,0,Minion,Shim'Zar,Common,70,,11055
+6,Spriggin,Neutral,0,Minion,Unearthed,Epic,50,,11116
+6,Storm Aratha,Neutral,0,Minion,Core,Common,55,,19035
+6,Stormmetal Golem,Neutral,0,Minion,Core,Common,70,Golem,10207
+6,The Scientist,Neutral,0,Minion,Core,Epic,55,Arcanyst,11047
+6,"Zen'Rui, the Blightspawned",Neutral,0,Minion,Core,Legendary,60,,10994
+7,Astral Crusader,Neutral,0,Minion,Core,Legendary,35,,11021
+7,Dark Nemesis,Neutral,0,Minion,Core,Legendary,70,,19046
+7,Drybone Golem,Neutral,0,Minion,Core,Common,60,Golem,10206
+7,E'Xun,Neutral,0,Minion,Core,Legendary,65,,11029
+7,Emberwyrm,Neutral,0,Minion,Unearthed,Common,75,,11104
+7,EMP,Neutral,0,Minion,Ancients,Rare,80,Golem,11093
+7,Grailmaster,Neutral,0,Minion,Core,Epic,65,,11010
+7,Mnemovore,Neutral,0,Minion,Mythron,Legendary,55,,11156
+7,Paddo,Neutral,0,Minion,Core,Legendary,45,,10997
+7,Pandora,Neutral,0,Minion,Core,Legendary,90,,10966
+7,Red Synja,Neutral,0,Minion,Core,Legendary,90,,10956
+7,Reliquarian,Neutral,0,Minion,Immortal,Legendary,60,,11136
+7,Rook,Neutral,0,Minion,Core,Legendary,45,,10990
+7,Saberspine Alpha,Neutral,0,Minion,Mythron,Common,60,,11143
+7,War Talon,Neutral,0,Minion,Core,Common,60,,11026
+7,Whistling Blade,Neutral,0,Minion,Core,Common,45,,19036
+7,"Zurael, the Lifegiver",Neutral,0,Minion,Core,Legendary,60,,10996
+8,Dagona,Neutral,0,Minion,Unearthed,Legendary,50,,11121
+8,Khymera,Neutral,0,Minion,Core,Legendary,60,,11013
+8,Meltdown,Neutral,0,Minion,Ancients,Legendary,65,,11089
+9,Worldcore Golem,Neutral,0,Minion,Mythron,Common,35,Golem,11147
+25,Blood Taura,Neutral,0,Minion,Core,Epic,30,,11044
+0,Argeon Highmayne,Lyonar Kingdoms,1,General,Core,Basic,,,1
+0,Beam Shock,Lyonar Kingdoms,1,Spell,Core,Common,,,20109
+0,Brome Warcrest,Lyonar Kingdoms,1,General,Core,Basic,,,51
+0,Steadfast Formation,Lyonar Kingdoms,1,Spell,Immortal,Common,,,20316
+0,Sunstone Bracers,Lyonar Kingdoms,1,Artifact,Core,Common,,,30004
+0,Zir'an Sunforge,Lyonar Kingdoms,1,General,Core,Basic,,,23
+1,Aegis Barrier,Lyonar Kingdoms,1,Spell,Core,Legendary,,,20120
+1,Aerial Rift,Lyonar Kingdoms,1,Spell,Core,Epic,,,20158
+1,Auryn Nexus,Lyonar Kingdoms,1,Spell,Core,Common,,,20045
+1,Draining Wave,Lyonar Kingdoms,1,Spell,Ancients,Common,,,20233
+1,Fighting Spirit,Lyonar Kingdoms,1,Spell,Shim'Zar,Epic,,,20189
+1,Fortified Assault,Lyonar Kingdoms,1,Spell,Unearthed,Rare,,,20287
+1,Lifestream,Lyonar Kingdoms,1,Spell,Mythron,Common,,,20361
+1,Lionheart Blessing,Lyonar Kingdoms,1,Spell,Core,Rare,,,20062
+1,Magnetize,Lyonar Kingdoms,1,Spell,Core,Rare,,,20161
+1,Sanctify,Lyonar Kingdoms,1,Spell,Unearthed,Common,,,20280
+1,Silverguard Squire,Lyonar Kingdoms,1,Minion,Core,Common,,,14
+1,Slo,Lyonar Kingdoms,1,Minion,Shim'Zar,Common,,Battle Pet,26
+1,Sundrop Elixir,Lyonar Kingdoms,1,Spell,Core,Common,,,20043
+1,Sunrise Cleric,Lyonar Kingdoms,1,Minion,Unearthed,Common,,,38
+1,True Strike,Lyonar Kingdoms,1,Spell,Core,Common,,,20066
+2,Azurite Lion,Lyonar Kingdoms,1,Minion,Core,Common,,,21
+2,Bolster,Lyonar Kingdoms,1,Spell,Mythron,Common,,,20315
+2,Channeled Breath,Lyonar Kingdoms,1,Spell,Unearthed,Common,,,20281
+2,Dauntless Advance,Lyonar Kingdoms,1,Spell,Immortal,Common,,,20332
+2,Fiz,Lyonar Kingdoms,1,Minion,Shim'Zar,Rare,,Battle Pet,25
+2,Gold Vitriol,Lyonar Kingdoms,1,Artifact,Ancients,Rare,,,30026
+2,Lasting Judgement,Lyonar Kingdoms,1,Spell,Core,Rare,,,20046
+2,Lightchaser,Lyonar Kingdoms,1,Minion,Core,Common,,,15
+2,Lucent Beam,Lyonar Kingdoms,1,Spell,Shim'Zar,Common,,,20190
+2,Marching Orders,Lyonar Kingdoms,1,Spell,Mythron,Rare,,,20366
+2,Prism Barrier,Lyonar Kingdoms,1,Spell,Ancients,Rare,,,20235
+2,Pureblade Enforcer,Lyonar Kingdoms,1,Minion,Unearthed,Common,,,37
+2,Sun Bloom,Lyonar Kingdoms,1,Spell,Core,Common,,,20064
+2,Sun Wisp,Lyonar Kingdoms,1,Minion,Shim'Zar,Common,,,27
+2,Sunbond Pavise,Lyonar Kingdoms,1,Artifact,Immortal,Rare,,,30048
+2,Sunstone Templar,Lyonar Kingdoms,1,Minion,Core,Epic,,,10
+2,Tempest,Lyonar Kingdoms,1,Spell,Core,Common,,,20044
+2,Vale Ascension,Lyonar Kingdoms,1,Spell,Unearthed,Epic,,,20285
+2,War Surge,Lyonar Kingdoms,1,Spell,Core,Common,,,20047
+2,Warblade,Lyonar Kingdoms,1,Minion,Ancients,Common,,Golem,34
+2,Windblade Adept,Lyonar Kingdoms,1,Minion,Core,Common,,,9
+3,Afterblaze,Lyonar Kingdoms,1,Spell,Shim'Zar,Common,,,20188
+3,Arclyte Sentinel,Lyonar Kingdoms,1,Minion,Core,Rare,,,12
+3,Auroara,Lyonar Kingdoms,1,Minion,Unearthed,Epic,,,40
+3,Decorated Enlistee,Lyonar Kingdoms,1,Minion,Immortal,Common,,,50
+3,Divine Bond,Lyonar Kingdoms,1,Spell,Core,Common,,,20068
+3,Empyreal Congregation,Lyonar Kingdoms,1,Spell,Unearthed,Epic,,,20274
+3,Fealty,Lyonar Kingdoms,1,Spell,Immortal,Rare,,,20317
+3,Gryphon Fledgling,Lyonar Kingdoms,1,Minion,Mythron,Rare,,,54
+3,Legion,Lyonar Kingdoms,1,Minion,Mythron,Common,,,53
+3,Life Coil,Lyonar Kingdoms,1,Spell,Ancients,Common,,,20249
+3,Martyrdom,Lyonar Kingdoms,1,Spell,Core,Common,,,20090
+3,Radiant Dragoon,Lyonar Kingdoms,1,Minion,Shim'Zar,Rare,,,28
+3,Scintilla,Lyonar Kingdoms,1,Minion,Ancients,Common,,,32
+3,Silverguard Knight,Lyonar Kingdoms,1,Minion,Core,Common,,,11
+3,Sky Burial,Lyonar Kingdoms,1,Spell,Shim'Zar,Rare,,,20187
+3,Skywind Glaives,Lyonar Kingdoms,1,Artifact,Core,Epic,,,30001
+3,Sol Pontiff,Lyonar Kingdoms,1,Minion,Ancients,Epic,,Golem,35
+3,Sunforge Lancer,Lyonar Kingdoms,1,Minion,Core,Epic,,,29
+3,Surgeforger,Lyonar Kingdoms,1,Minion,Immortal,Legendary,,,48
+3,Vigilator,Lyonar Kingdoms,1,Minion,Immortal,Common,,,47
+4,Arclyte Regalia,Lyonar Kingdoms,1,Artifact,Core,Legendary,,,30018
+4,Decimate,Lyonar Kingdoms,1,Spell,Core,Legendary,,,20128
+4,Holy Immolation,Lyonar Kingdoms,1,Spell,Core,Epic,,,20067
+4,Invincible,Lyonar Kingdoms,1,Spell,Immortal,Epic,,,20325
+4,Ironcliffe Heart,Lyonar Kingdoms,1,Spell,Shim'Zar,Epic,,,20186
+4,Ironcliffe Monument,Lyonar Kingdoms,1,Minion,Immortal,Legendary,,Structure,49
+4,Lysian Brawler,Lyonar Kingdoms,1,Minion,Core,Common,,,8
+4,Solpiercer,Lyonar Kingdoms,1,Minion,Unearthed,Rare,,,39
+4,Sun Sister Sterope,Lyonar Kingdoms,1,Minion,Core,Legendary,,,24
+4,Sunbreaker,Lyonar Kingdoms,1,Minion,Ancients,Rare,,,31
+4,Sunriser,Lyonar Kingdoms,1,Minion,Core,Epic,,,22
+4,Sunstrike,Lyonar Kingdoms,1,Spell,Immortal,Epic,,,20320
+4,Suntide Maiden,Lyonar Kingdoms,1,Minion,Core,Common,,,16
+4,Trinity Oath,Lyonar Kingdoms,1,Spell,Ancients,Epic,,,20232
+4,War Judicator,Lyonar Kingdoms,1,Minion,Unearthed,Rare,,,41
+4,Windcliffe Alarmist,Lyonar Kingdoms,1,Minion,Mythron,Common,,,56
+5,Circle of Life,Lyonar Kingdoms,1,Spell,Core,Epic,,,20104
+5,Dawn's Eye,Lyonar Kingdoms,1,Artifact,Shim'Zar,Legendary,,,30024
+5,Halo Bulwark,Lyonar Kingdoms,1,Artifact,Unearthed,Legendary,,,30032
+5,Ironcliffe Guardian,Lyonar Kingdoms,1,Minion,Core,Rare,,,17
+5,Lionize,Lyonar Kingdoms,1,Spell,Mythron,Epic,,,20384
+5,Oakenheart,Lyonar Kingdoms,1,Minion,Immortal,Rare,,Mech,44
+5,Second Sun,Lyonar Kingdoms,1,Minion,Core,Rare,,,13
+5,Solarius,Lyonar Kingdoms,1,Minion,Shim'Zar,Legendary,,,30
+5,War Exorcist,Lyonar Kingdoms,1,Minion,Mythron,Legendary,,,59
+5,Windcliffe Protector,Lyonar Kingdoms,1,Minion,Mythron,Epic,,,55
+6,Divine Liturgy,Lyonar Kingdoms,1,Spell,Mythron,Rare,,,20360
+6,Elyx Stormblade,Lyonar Kingdoms,1,Minion,Core,Legendary,,,18
+6,Prominence,Lyonar Kingdoms,1,Minion,Immortal,Epic,,,45
+6,Radiant Standard,Lyonar Kingdoms,1,Artifact,Mythron,Legendary,,,30053
+7,Alabaster Titan,Lyonar Kingdoms,1,Minion,Unearthed,Legendary,,,42
+7,Aperion's Claim,Lyonar Kingdoms,1,Spell,Unearthed,Legendary,,,20282
+7,Call to Arms,Lyonar Kingdoms,1,Spell,Immortal,Legendary,,,20318
+7,Grandmaster Z'ir,Lyonar Kingdoms,1,Minion,Core,Legendary,,,20
+7,Indominus,Lyonar Kingdoms,1,Minion,Mythron,Legendary,,,58
+7,Peacekeeper,Lyonar Kingdoms,1,Minion,Ancients,Legendary,,Golem,36
+8,Excelsious,Lyonar Kingdoms,1,Minion,Core,Legendary,,,33
+8,Sky Phalanx,Lyonar Kingdoms,1,Spell,Shim'Zar,Legendary,,,20220
+9,Amaranthine Vow,Lyonar Kingdoms,1,Spell,Mythron,Legendary,,,20392
+0,Juxtaposition,Songhai Empire,2,Spell,Core,Epic,,,20129
+0,Kaleos Xaan,Songhai Empire,2,General,Core,Basic,,,101
+0,Mana Vortex,Songhai Empire,2,Spell,Core,Rare,,,20085
+0,Meditate,Songhai Empire,2,Spell,Mythron,Rare,,,20355
+0,Reva Eventide,Songhai Empire,2,General,Core,Basic,,,123
+0,Shidai Stormblossom,Songhai Empire,2,General,Core,Basic,,,152
+1,Ace,Songhai Empire,2,Minion,Shim'Zar,Common,,Battle Pet,126
+1,Assassination Protocol,Songhai Empire,2,Spell,Immortal,Common,,,20323
+1,Crescent Spear,Songhai Empire,2,Artifact,Shim'Zar,Legendary,,,30023
+1,Ghost Lightning,Songhai Empire,2,Spell,Core,Common,,,20088
+1,Gotatsu,Songhai Empire,2,Spell,Unearthed,Common,,,20275
+1,Heartseeker,Songhai Empire,2,Minion,Core,Common,,,108
+1,Horned Mask,Songhai Empire,2,Artifact,Mythron,Epic,,,30052
+1,Inner Focus,Songhai Empire,2,Spell,Core,Common,,,20086
+1,Joseki,Songhai Empire,2,Spell,Ancients,Common,,,20256
+1,Katara,Songhai Empire,2,Minion,Shim'Zar,Common,,,129
+1,Knucklestorm,Songhai Empire,2,Spell,Mythron,Common,,,20354
+1,Mist Dragon Seal,Songhai Empire,2,Spell,Core,Common,,,20168
+1,Mist Walking,Songhai Empire,2,Spell,Core,Rare,,,20167
+1,Obscuring Blow,Songhai Empire,2,Spell,Ancients,Rare,,,20241
+1,Shadow Waltz,Songhai Empire,2,Spell,Shim'Zar,Common,,,20192
+1,Spiral Counter,Songhai Empire,2,Spell,Unearthed,Common,,,20294
+2,Artifact Defiler,Songhai Empire,2,Spell,Core,Common,,,20106
+2,Bloodrage Mask,Songhai Empire,2,Artifact,Core,Common,,,30010
+2,Chakri Avatar,Songhai Empire,2,Minion,Core,Common,,Arcanyst,115
+2,Crimson Coil,Songhai Empire,2,Spell,Shim'Zar,Common,,,20191
+2,Deathstrike Seal,Songhai Empire,2,Spell,Core,Rare,,,20094
+2,Eight Gates,Songhai Empire,2,Spell,Core,Legendary,,,20143
+2,Ethereal Blades,Songhai Empire,2,Spell,Ancients,Common,,,20231
+2,Kaido Assassin,Songhai Empire,2,Minion,Core,Common,,,110
+2,Mask of Shadows,Songhai Empire,2,Artifact,Core,Legendary,,,30007
+2,Mass Flight,Songhai Empire,2,Spell,Immortal,Rare,,,20341
+2,Mirror Meld,Songhai Empire,2,Spell,Shim'Zar,Rare,,,20194
+2,Phoenix Fire,Songhai Empire,2,Spell,Core,Common,,,20081
+2,Saberspine Seal,Songhai Empire,2,Spell,Core,Common,,,20080
+2,Scroll Bandit,Songhai Empire,2,Minion,Unearthed,Epic,,Arcanyst,140
+2,Second Self,Songhai Empire,2,Spell,Mythron,Rare,,,20365
+2,Suzumebachi,Songhai Empire,2,Minion,Immortal,Common,,,145
+2,Tusk Boar,Songhai Empire,2,Minion,Core,Legendary,,,121
+2,Xho,Songhai Empire,2,Minion,Shim'Zar,Rare,,Battle Pet,125
+3,Bamboozle,Songhai Empire,2,Spell,Immortal,Epic,,,20327
+3,Bangle of Blinding Strike,Songhai Empire,2,Artifact,Ancients,Rare,,,30027
+3,Battle Panddo,Songhai Empire,2,Minion,Shim'Zar,Epic,,,130
+3,Celestial Phantom,Songhai Empire,2,Minion,Core,Rare,,,117
+3,Cyclone Mask,Songhai Empire,2,Artifact,Core,Epic,,,30009
+3,Dusk Rigger,Songhai Empire,2,Minion,Immortal,Rare,,Mech,151
+3,Flicker,Songhai Empire,2,Spell,Unearthed,Epic,,,20283
+3,Gore Horn,Songhai Empire,2,Minion,Core,Rare,,,112
+3,Hundred-Handed Rakushi,Songhai Empire,2,Minion,Unearthed,Common,,,142
+3,Jade Monk,Songhai Empire,2,Minion,Core,Common,,,114
+3,Kaido Expert,Songhai Empire,2,Minion,Mythron,Rare,,,156
+3,Ki Beholder,Songhai Empire,2,Minion,Shim'Zar,Rare,,,128
+3,Killing Edge,Songhai Empire,2,Spell,Core,Common,,,20102
+3,Lantern Fox,Songhai Empire,2,Minion,Core,Epic,,,122
+3,Mind-Cage Oni,Songhai Empire,2,Minion,Unearthed,Rare,,,144
+3,Mizuchi,Songhai Empire,2,Minion,Unearthed,Rare,,,143
+3,Onyx Bear Seal,Songhai Empire,2,Spell,Core,Epic,,,20087
+3,Orizuru,Songhai Empire,2,Minion,Mythron,Common,,,158
+3,Pandatentiary,Songhai Empire,2,Spell,Mythron,Epic,,,20385
+3,Penumbraxx,Songhai Empire,2,Minion,Immortal,Legendary,,,149
+3,Sparrowhawk,Songhai Empire,2,Minion,Ancients,Common,,Arcanyst,135
+3,Substitution,Songhai Empire,2,Spell,Immortal,Epic,,,20328
+3,Thunderbomb,Songhai Empire,2,Spell,Immortal,Common,,,20314
+3,Twilight Fox,Songhai Empire,2,Minion,Ancients,Legendary,,,132
+3,Twin Strike,Songhai Empire,2,Spell,Core,Common,,,20082
+3,Unbounded Energy Amulet,Songhai Empire,2,Artifact,Unearthed,Legendary,,,30033
+3,Whiplash,Songhai Empire,2,Minion,Ancients,Common,,,134
+3,Widowmaker,Songhai Empire,2,Minion,Core,Common,,,109
+4,Ancestral Divination,Songhai Empire,2,Spell,Core,Common,,,20100
+4,Bakezori,Songhai Empire,2,Minion,Mythron,Epic,,,155
+4,Coalfist,Songhai Empire,2,Minion,Mythron,Common,,,160
+4,Cobra Strike,Songhai Empire,2,Spell,Ancients,Epic,,,20240
+4,Flamewreath,Songhai Empire,2,Minion,Unearthed,Common,,,138
+4,Four Winds Magi,Songhai Empire,2,Minion,Core,Rare,,Arcanyst,116
+4,Keshrai Fanblade,Songhai Empire,2,Minion,Core,Common,,,120
+4,Kindling,Songhai Empire,2,Minion,Ancients,Epic,,Arcanyst,136
+4,Manakite Drifter,Songhai Empire,2,Minion,Immortal,Common,,,148
+4,Massacre Artist,Songhai Empire,2,Minion,Mythron,Legendary,,,157
+4,Pandamonium,Songhai Empire,2,Spell,Shim'Zar,Epic,,,20193
+4,Storm Sister Alkyone,Songhai Empire,2,Minion,Core,Legendary,,,124
+4,Wildfire Tenketsu,Songhai Empire,2,Minion,Immortal,Epic,,,150
+5,Bombard,Songhai Empire,2,Spell,Unearthed,Rare,,,20279
+5,Geomancer,Songhai Empire,2,Minion,Ancients,Rare,,,133
+5,Hamon Bladeseeker,Songhai Empire,2,Minion,Core,Epic,,,119
+5,Heaven's Eclipse,Songhai Empire,2,Spell,Core,Legendary,,,20155
+5,Onyx Jaguar,Songhai Empire,2,Minion,Shim'Zar,Epic,,,127
+5,Phoenix Barrage,Songhai Empire,2,Spell,Mythron,Common,,,20389
+5,Scarlet Viper,Songhai Empire,2,Minion,Core,Common,,,111
+5,Seeker Squad,Songhai Empire,2,Spell,Immortal,Legendary,,,20326
+5,Twilight Reiki,Songhai Empire,2,Spell,Unearthed,Legendary,,,20267
+5,Xenkai Cannoneer,Songhai Empire,2,Minion,Mythron,Legendary,,,159
+6,Eternity Painter,Songhai Empire,2,Minion,Unearthed,Legendary,,,139
+6,Firestorm Mantra,Songhai Empire,2,Spell,Unearthed,Epic,,,20290
+6,Grandmaster Zendo,Songhai Empire,2,Minion,Core,Legendary,,,131
+6,Ornate Hiogi,Songhai Empire,2,Artifact,Immortal,Legendary,,,30038
+7,Calligrapher,Songhai Empire,2,Minion,Ancients,Legendary,,Arcanyst,137
+7,Second-sword Sarugi,Songhai Empire,2,Minion,Immortal,Legendary,,,146
+7,Storm Kage,Songhai Empire,2,Minion,Core,Legendary,,,118
+8,Koan of Horns,Songhai Empire,2,Spell,Shim'Zar,Legendary,,,20217
+8,Spiral Technique,Songhai Empire,2,Spell,Core,Epic,,,20084
+11,Kensho Vortex,Songhai Empire,2,Spell,Mythron,Legendary,,,20377
+0,Burden of Knowledge,Vetruvian Imperium,3,Spell,Immortal,Common,,,20335
+0,Ciphyron Ascendant,Vetruvian Imperium,3,General,Core,Basic,,,254
+0,Rae,Vetruvian Imperium,3,Minion,Shim'Zar,Common,,Battle Pet,227
+0,Scioness Sajj,Vetruvian Imperium,3,General,Core,Basic,,,223
+0,Siphon Energy,Vetruvian Imperium,3,Spell,Core,Common,,,20073
+0,Zirix Starstrider,Vetruvian Imperium,3,General,Core,Basic,,,201
+1,Arid Unmaking,Vetruvian Imperium,3,Spell,Unearthed,Common,,,20255
+1,Auroras Tears,Vetruvian Imperium,3,Spell,Core,Epic,,,20132
+1,Azure Summoning,Vetruvian Imperium,3,Spell,Unearthed,Epic,,,20286
+1,Blindscorch,Vetruvian Imperium,3,Spell,Core,Common,,,20075
+1,Droplift,Vetruvian Imperium,3,Spell,Unearthed,Rare,,,20300
+1,Equality Constraint,Vetruvian Imperium,3,Spell,Immortal,Common,,,20336
+1,Kinematic Projection,Vetruvian Imperium,3,Spell,Immortal,Rare,,,20313
+1,Oblivion Sickle,Vetruvian Imperium,3,Artifact,Unearthed,Legendary,,,30036
+1,Planar Foundry,Vetruvian Imperium,3,Spell,Mythron,Common,,,20378
+1,Scion's First Wish,Vetruvian Imperium,3,Spell,Core,Common,,,20095
+1,Stone to Spears,Vetruvian Imperium,3,Spell,Ancients,Rare,,,20246
+2,Bone Swarm,Vetruvian Imperium,3,Spell,Core,Common,,,20151
+2,Cosmic Flesh,Vetruvian Imperium,3,Spell,Core,Common,,,20074
+2,Dreamshaper,Vetruvian Imperium,3,Minion,Ancients,Common,,Golem,238
+2,Dunecaster,Vetruvian Imperium,3,Minion,Core,Common,,Dervish,211
+2,Duskweaver,Vetruvian Imperium,3,Minion,Unearthed,Common,,Dervish,241
+2,Dustdrinker,Vetruvian Imperium,3,Minion,Mythron,Common,,Dervish,258
+2,Ethereal Obelysk,Vetruvian Imperium,3,Minion,Core,Common,,Structure,214
+2,Fountain of Youth,Vetruvian Imperium,3,Spell,Core,Rare,,,20152
+2,Iris Barrier,Vetruvian Imperium,3,Artifact,Immortal,Rare,,,30050
+2,Lavastorm Obelysk,Vetruvian Imperium,3,Minion,Unearthed,Rare,,Structure,243
+2,Metalmeld,Vetruvian Imperium,3,Spell,Mythron,Rare,,,20386
+2,Neurolink,Vetruvian Imperium,3,Spell,Immortal,Epic,,,20350
+2,Obdurator,Vetruvian Imperium,3,Artifact,Mythron,Epic,,,30054
+2,Orbrider,Vetruvian Imperium,3,Minion,Mythron,Common,,,256
+2,Pax,Vetruvian Imperium,3,Minion,Shim'Zar,Rare,,Battle Pet,228
+2,Pyromancer,Vetruvian Imperium,3,Minion,Core,Common,,,213
+2,Rasha's Curse,Vetruvian Imperium,3,Spell,Core,Epic,,,20099
+2,Reassemble,Vetruvian Imperium,3,Spell,Unearthed,Common,,,20265
+2,Sand Trap,Vetruvian Imperium,3,Spell,Core,Common,,,20093
+2,Scion's Second Wish,Vetruvian Imperium,3,Spell,Core,Common,,,20096
+2,Staff Of Y'Kir,Vetruvian Imperium,3,Artifact,Core,Common,,,30006
+2,Whisper of the Sands,Vetruvian Imperium,3,Spell,Shim'Zar,Common,,,20196
+2,Wind Slicer,Vetruvian Imperium,3,Minion,Shim'Zar,Rare,,,229
+2,Windstorm Obelysk,Vetruvian Imperium,3,Minion,Core,Common,,Structure,216
+3,Astral Flood,Vetruvian Imperium,3,Spell,Shim'Zar,Common,,,20195
+3,Astral Phasing,Vetruvian Imperium,3,Spell,Core,Common,,,20076
+3,Atom Klinger,Vetruvian Imperium,3,Minion,Mythron,Rare,,,263
+3,Divine Spark,Vetruvian Imperium,3,Spell,Ancients,Common,,,20242
+3,Falcius,Vetruvian Imperium,3,Minion,Shim'Zar,Common,,,245
+3,Fate Watcher,Vetruvian Imperium,3,Minion,Unearthed,Common,,,215
+3,Fireblaze Obelysk,Vetruvian Imperium,3,Minion,Core,Rare,,Structure,218
+3,Imperial Mechanyst,Vetruvian Imperium,3,Minion,Core,Rare,,,20153
+3,Inner Oasis,Vetruvian Imperium,3,Spell,Core,Rare,,,212
+3,Orb Weaver,Vetruvian Imperium,3,Minion,Core,Common,,Dervish,221
+3,Portal Guardian,Vetruvian Imperium,3,Minion,Core,Epic,,,20197
+3,Psychic Conduit,Vetruvian Imperium,3,Spell,Shim'Zar,Rare,,,210
+3,Sand Howler,Vetruvian Imperium,3,Minion,Core,Rare,,Dervish,20097
+3,Scion's Third Wish,Vetruvian Imperium,3,Spell,Core,Legendary,,,253
+3,Simulacra Obelysk,Vetruvian Imperium,3,Minion,Immortal,Legendary,,Structure,251
+3,Skyppy,Vetruvian Imperium,3,Minion,Immortal,Common,,,20078
+3,Time Maelstrom,Vetruvian Imperium,3,Spell,Core,Legendary,,,30008
+3,Wildfire Ankh,Vetruvian Imperium,3,Artifact,Core,Epic,,,20362
+3,Wither,Vetruvian Imperium,3,Spell,Mythron,Rare,,,235
+3,Zephyr,Vetruvian Imperium,3,Minion,Ancients,Common,,,231
+4,Allomancer,Vetruvian Imperium,3,Minion,Shim'Zar,Epic,,,249
+4,Barren Shrike,Vetruvian Imperium,3,Minion,Immortal,Common,,,20077
+4,Entropic Decay,Vetruvian Imperium,3,Spell,Core,Common,,,226
+4,Hexblade,Vetruvian Imperium,3,Artifact,Core,Legendary,,,30011
+4,Lost in the Desert,Vetruvian Imperium,3,Spell,Immortal,Epic,,,20342
+4,Mirage Master,Vetruvian Imperium,3,Minion,Core,Epic,,,219
+4,Sand Sister Saon,Vetruvian Imperium,3,Minion,Core,Legendary,,,224
+4,Synaptic Arbitrage,Vetruvian Imperium,3,Spell,Mythron,Epic,,,20381
+4,Thunderclap,Vetruvian Imperium,3,Artifact,Ancients,Rare,,,30029
+4,Trygon Obelysk,Vetruvian Imperium,3,Minion,Unearthed,Legendary,,Structure,242
+4,Wasteland Wraith,Vetruvian Imperium,3,Minion,Unearthed,Epic,,,244
+4,Wind Shrike,Vetruvian Imperium,3,Minion,Core,Common,,,208
+4,Wind Striker,Vetruvian Imperium,3,Minion,Ancients,Epic,,Golem,239
+5,Accumulonimbus,Vetruvian Imperium,3,Spell,Mythron,Common,,,20357
+5,Blood of Air,Vetruvian Imperium,3,Spell,Core,Common,,,20254
+5,Corpse Combustion,Vetruvian Imperium,3,Spell,Shim'Zar,Epic,,,20198
+5,Fifth Canopic,Vetruvian Imperium,3,Minion,Mythron,Epic,,,257
+5,Gust,Vetruvian Imperium,3,Minion,Immortal,Epic,,,247
+5,Incinera,Vetruvian Imperium,3,Minion,Ancients,Rare,,,236
+5,Khanuum-ka,Vetruvian Imperium,3,Minion,Mythron,Legendary,,Dervish,260
+5,Nimbus,Vetruvian Imperium,3,Minion,Shim'Zar,Legendary,,,232
+5,Sandswirl Reader,Vetruvian Imperium,3,Minion,Unearthed,Rare,,,246
+5,Silica Weaver,Vetruvian Imperium,3,Minion,Immortal,Rare,,Mech,250
+5,Sirocco,Vetruvian Imperium,3,Minion,Ancients,Legendary,,Golem,240
+5,Spinecleaver,Vetruvian Imperium,3,Artifact,Shim'Zar,Legendary,,,30022
+5,Star's Fury,Vetruvian Imperium,3,Spell,Core,Epic,,,20105
+5,Starfire Scarab,Vetruvian Imperium,3,Minion,Core,Common,,,209
+5,Superior Mirage,Vetruvian Imperium,3,Spell,Unearthed,Epic,,,20299
+6,Autarch's Gifts,Vetruvian Imperium,3,Spell,Ancients,Epic,,,20244
+6,Aymara Healer,Vetruvian Imperium,3,Minion,Core,Legendary,,,220
+6,Cataclysmic Fault,Vetruvian Imperium,3,Spell,Unearthed,Legendary,,,20262
+6,Grapnel Paradigm,Vetruvian Imperium,3,Minion,Immortal,Legendary,,,252
+6,Pantheran,Vetruvian Imperium,3,Minion,Shim'Zar,Epic,,,222
+6,Swarmking Scarab,Vetruvian Imperium,3,Minion,Mythron,Legendary,,,233
+7,Dominate Will,Vetruvian Imperium,3,Spell,Core,Rare,,,261
+7,Oserix,Vetruvian Imperium,3,Minion,Core,Legendary,,,20028
+8,Circle of Desiccation,Vetruvian Imperium,3,Spell,Shim'Zar,Legendary,,,20216
+8,Grandmaster Nosh-Rak,Vetruvian Imperium,3,Minion,Core,Legendary,,,237
+9,Circle of Fabrication,Vetruvian Imperium,3,Spell,Mythron,Legendary,,,20363
+9,Monolithic Vision,Vetruvian Imperium,3,Spell,Immortal,Legendary,,,20322
+0,Cassyva Soulreaper,Abyssian Host,4,General,Core,Basic,,,323
+0,Darkfire Sacrifice,Abyssian Host,4,Spell,Core,Rare,,,20059
+0,Lilithe Blightchaser,Abyssian Host,4,General,Core,Basic,,,301
+0,Maehv Skinsolder,Abyssian Host,4,General,Core,Basic,,,355
+1,Abyssal Crawler,Abyssian Host,4,Minion,Core,Common,,,308
+1,Aphotic Drain,Abyssian Host,4,Spell ,Ancients,Common,,,20226
+1,Demonic Conversion,Abyssian Host,4,Spell,Mythron,Common,,,20376
+1,Furiosa,Abyssian Host,4,Minion,Ancients,Common,,,331
+1,Grasp of Agony,Abyssian Host,4,Spell,Core,Common,,,20070
+1,Horn of the Forsaken,Abyssian Host,4,Artifact,Core,Common,,,30005
+1,Inkling Surge,Abyssian Host,4,Spell,Unearthed,Common,,,20272
+1,Nethermeld,Abyssian Host,4,Spell,Unearthed,Epic,,,20269
+1,Painful Pluck,Abyssian Host,4,Spell,Mythron,Common,,,20356
+1,Void Pulse,Abyssian Host,4,Spell,Core,Common,,,20052
+2,Blood Siren,Abyssian Host,4,Minion,Core,Common,,,313
+2,Carrion Collector,Abyssian Host,4,Minion,Mythron,Epic,,,359
+2,Choking Tendrils,Abyssian Host,4,Spell,Unearthed,Common,,,20271
+2,Consuming Rebirth,Abyssian Host,4,Spell,Core,Epic,,,20166
+2,Daemonic Lure,Abyssian Host,4,Spell,Core,Common,,,20049
+2,Darkspine Elemental,Abyssian Host,4,Minion,Core,Rare,,,316
+2,Deathmark,Abyssian Host,4,Spell,Immortal,Rare,,,20333
+2,Echoing Shriek,Abyssian Host,4,Spell,Shim'Zar,Epic,,,20204
+2,Gibbet,Abyssian Host,4,Minion,Mythron,Rare,,,363
+2,Gloomchaser,Abyssian Host,4,Minion,Core,Common,,,317
+2,Gor,Abyssian Host,4,Minion,Shim'Zar,Common,,Battle Pet,326
+2,Inkhorn Gaze,Abyssian Host,4,Spell,Shim'Zar,Common,,,20200
+2,Lurking Fear,Abyssian Host,4,Spell,Shim'Zar,Epic,,,20199
+2,Nightmare Operant,Abyssian Host,4,Minion,Immortal,Rare,,Mech,351
+2,Nocturne,Abyssian Host,4,Minion,Ancients,Epic,,Arcanyst,337
+2,Ooz,Abyssian Host,4,Minion,Shim'Zar,Rare,,Battle Pet,327
+2,Phantasm,Abyssian Host,4,Minion,Unearthed,Common,,,339
+2,Punish,Abyssian Host,4,Spell,Ancients,Rare,,,20243
+2,Shadowstalk,Abyssian Host,4,Spell,Unearthed,Rare,,,20273
+2,Soulshatter Pact,Abyssian Host,4,Spell,Core,Common,,,20071
+2,Spectral Blade,Abyssian Host,4,Artifact,Core,Epic,,,30014
+2,Sphere of Darkness,Abyssian Host,4,Spell,Shim'Zar,Common,,,20201
+2,The Releaser,Abyssian Host,4,Artifact,Ancients,Rare,,,30030
+2,Yielding Depths,Abyssian Host,4,Spell,Mythron,Rare,,,20367
+3,Abhorrent Unbirth,Abyssian Host,4,Spell,Immortal,Epic,,,20348
+3,Blood Baronette,Abyssian Host,4,Minion,Shim'Zar,Rare,,,328
+3,Blood Echoes,Abyssian Host,4,Spell,Ancients,Common,,,20257
+3,Bonecrusher,Abyssian Host,4,Minion,Mythron,Common,,,361
+3,Bound Tormentor,Abyssian Host,4,Minion,Unearthed,Common,,,344
+3,Chittering Tiller,Abyssian Host,4,Minion,Mythron,Common,,,362
+3,Deathfire Crescendo,Abyssian Host,4,Spell,Core,Legendary,,,20133
+3,Horrific Visage,Abyssian Host,4,Spell,Immortal,Common,,,20340
+3,Horror Burster,Abyssian Host,4,Minion,Ancients,Rare,,,334
+3,Infest,Abyssian Host,4,Spell,Immortal,Legendary,,,20321
+3,Mindlathe,Abyssian Host,4,Artifact,Unearthed,Legendary,,,30034
+3,Munch,Abyssian Host,4,Spell,Mythron,Rare,,,20374
+3,Nightsorrow Assassin,Abyssian Host,4,Minion,Core,Common,,,319
+3,Ritual Banishing,Abyssian Host,4,Spell,Core,Rare,,,20057
+3,Shadow Reflection,Abyssian Host,4,Spell,Core,Common,,,20065
+3,Shadow Watcher,Abyssian Host,4,Minion,Core,Common,,,311
+3,Skullprophet,Abyssian Host,4,Minion,Unearthed,Rare,,,343
+3,Soul Grimwar,Abyssian Host,4,Artifact,Core,Legendary,,,30002
+3,Void Steal,Abyssian Host,4,Spell,Shim'Zar,Rare,,,20205
+3,Void Talon,Abyssian Host,4,Minion,Immortal,Common,,,350
+3,Wraithling Fury,Abyssian Host,4,Spell,Core,Epic,,,20089
+3,Wraithling Swarm,Abyssian Host,4,Spell,Core,Common,,,20072
+3,Xerroloth,Abyssian Host,4,Minion,Unearthed,Rare,,,345
+4,Abyssal Juggernaut,Abyssian Host,4,Minion,Core,Common,,,309
+4,Bloodtide Priestess,Abyssian Host,4,Minion,Core,Rare,,,310
+4,Breath of the Unborn,Abyssian Host,4,Spell,Core,Common,,,20131
+4,Cacophynos,Abyssian Host,4,Minion,Immortal,Common,,,348
+4,Dark Seed,Abyssian Host,4,Spell,Core,Rare,,,20069
+4,Deepfire Devourer,Abyssian Host,4,Minion,Core,Common,,,312
+4,Desolator,Abyssian Host,4,Minion,Unearthed,Legendary,,,341
+4,Gate to the Undervault,Abyssian Host,4,Minion,Immortal,Legendary,,Structure,353
+4,Ghost Azalea,Abyssian Host,4,Artifact,Shim'Zar,Legendary,,,30020
+4,Nekomata,Abyssian Host,4,Minion,Unearthed,Epic,,,340
+4,Nightshroud,Abyssian Host,4,Minion,Ancients,Common,,Arcanyst,336
+4,Shadow Nova,Abyssian Host,4,Spell,Core,Common,,,20051
+4,Shadow Sister Kelaino,Abyssian Host,4,Minion,Core,Legendary,,,324
+4,Vellumscry,Abyssian Host,4,Spell,Immortal,Common,,,20334
+4,Wraithcrown,Abyssian Host,4,Artifact,Mythron,Epic,,,30051
+5,Black Solus,Abyssian Host,4,Minion,Core,Epic,,,321
+5,Corporeal Cadence,Abyssian Host,4,Spell,Unearthed,Epic,,,20284
+5,Dark Transformation,Abyssian Host,4,Spell,Core,Common,,,20061
+5,Furor Chakram,Abyssian Host,4,Artifact,Immortal,Rare,,,30039
+5,Hexclaw,Abyssian Host,4,Minion,Mythron,Legendary,,,358
+5,Nether Summoning,Abyssian Host,4,Spell,Core,Legendary,,,20050
+5,Night Fiend,Abyssian Host,4,Minion,Shim'Zar,Common,,,325
+5,Reaper of the Nine Moons,Abyssian Host,4,Minion,Core,Epic,,,322
+5,Shadowdancer,Abyssian Host,4,Minion,Core,Rare,,,318
+6,Abyssal Tormentor,Abyssian Host,4,Minion,Mythron,Legendary,,,360
+6,Betrayal,Abyssian Host,4,Spell,Immortal,Epic,,,20331
+6,Klaxon,Abyssian Host,4,Minion,Shim'Zar,Legendary,,,330
+6,Moonrider,Abyssian Host,4,Minion,Immortal,Epic,,,352
+6,Necrotic Sphere,Abyssian Host,4,Spell,Ancients,Epic,,,20227
+6,Rite of the Undervault,Abyssian Host,4,Spell,Core,Epic,,,20154
+6,Unfathomable Rite,Abyssian Host,4,Spell,Mythron,Epic,,,20373
+6,Vorpal Reaver,Abyssian Host,4,Minion,Core,Legendary,,,314
+7,Arcane Devourer,Abyssian Host,4,Minion,Shim'Zar,Epic,,,329
+7,Stygian Observer,Abyssian Host,4,Minion,Immortal,Legendary,,,347
+8,Death Knell,Abyssian Host,4,Minion,Ancients,Legendary,,Arcanyst,338
+8,Grandmaster Variax,Abyssian Host,4,Minion,Core,Legendary,,,333
+8,Obliterate,Abyssian Host,4,Spell,Shim'Zar,Legendary,,,20213
+8,Spectral Revenant,Abyssian Host,4,Minion,Core,Legendary,,,320
+8,Unleash the Evil,Abyssian Host,4,Spell,Mythron,Legendary,,,20380
+9,Doom,Abyssian Host,4,Spell,Unearthed,Legendary,,,20264
+0,Dampening Wave,Magmar Aspects,5,Spell,Core,Common,,,20111
+0,Flash Reincarnation,Magmar Aspects,5,Spell,Core,Rare,,,20112
+0,Ragnora the Relentless,Magmar Aspects,5,General,Core,Basic,,,449
+0,Starhorn the Seeker,Magmar Aspects,5,General,Core,Basic,,,418
+0,Vaath the Immortal,Magmar Aspects,5,General,Core,Basic,,,401
+1,Amplification,Magmar Aspects,5,Spell,Core,Common,,,20119
+1,Dance of Dreams,Magmar Aspects,5,Spell,Core,Common,,,20115
+1,Eternal Heart,Magmar Aspects,5,Artifact,Unearthed,Legendary,,,30037
+1,Godhammer,Magmar Aspects,5,Artifact,Ancients,Rare,,,30028
+1,Greater Fortitude,Magmar Aspects,5,Spell,Core,Common,,,20116
+1,Lava Lance,Magmar Aspects,5,Spell,Shim'Zar,Common,,,20203
+1,Rage Reactor,Magmar Aspects,5,Artifact,Immortal,Rare,,,30049
+1,Razor Skin,Magmar Aspects,5,Spell,Shim'Zar,Common,,,20202
+1,Rex,Magmar Aspects,5,Minion,Shim'Zar,Common,,Battle Pet,421
+1,Tremor,Magmar Aspects,5,Spell,Core,Common,,,20114
+2,Angered Okkadok,Magmar Aspects,5,Minion,Mythron,Common,,,451
+2,Biomimetic Hulk,Magmar Aspects,5,Minion,Immortal,Common,,,444
+2,Cascading Rebirth,Magmar Aspects,5,Spell,Ancients,Common,,,20258
+2,Deep Impact,Magmar Aspects,5,Spell,Mythron,Rare,,,20369
+2,Diretide Frenzy,Magmar Aspects,5,Spell,Core,Common,,,20113
+2,Embryotic Insight,Magmar Aspects,5,Spell,Immortal,Common,,,20312
+2,Entropic Gaze,Magmar Aspects,5,Spell,Ancients,Common,,,20225
+2,Gro,Magmar Aspects,5,Minion,Shim'Zar,Rare,,Battle Pet,420
+2,Invigoration,Magmar Aspects,5,Spell,Mythron,Common,,,20358
+2,Iridium Scale,Magmar Aspects,5,Artifact,Core,Epic,,,30013
+2,Kujata,Magmar Aspects,5,Minion,Core,Epic,,,409
+2,Mitotic Induction,Magmar Aspects,5,Spell,Mythron,Epic,,,20382
+2,Natural Selection,Magmar Aspects,5,Spell,Core,Common,,,20125
+2,Phalanxar,Magmar Aspects,5,Minion,Core,Common,,,406
+2,Primal Ballast,Magmar Aspects,5,Spell,Unearthed,Rare,,,20268
+2,Rancour,Magmar Aspects,5,Minion,Ancients,Rare,,,430
+2,Seismoid,Magmar Aspects,5,Minion,Immortal,Rare,,Mech,446
+2,Vaath's Brutality,Magmar Aspects,5,Spell,Unearthed,Common,,,20288
+2,Warpup,Magmar Aspects,5,Minion,Unearthed,Rare,,,438
+2,Young Silithar,Magmar Aspects,5,Minion,Core,Common,,,412
+2,Zoetic Charm,Magmar Aspects,5,Artifact,Mythron,Epic,,,30055
+3,Bellow,Magmar Aspects,5,Spell,Mythron,Common,,,20390
+3,Catalyst Quillbeast,Magmar Aspects,5,Minion,Unearthed,Common,,,439
+3,Earth Walker,Magmar Aspects,5,Minion,Core,Common,,,402
+3,Effulgent Infusion,Magmar Aspects,5,Spell,Immortal,Common,,,20346
+3,Endure the Beastlands,Magmar Aspects,5,Spell,Unearthed,Epic,,,20291
+3,Erratic Raptyr,Magmar Aspects,5,Minion,Immortal,Rare,,,448
+3,Kinetic Equilibrium,Magmar Aspects,5,Spell,Core,Rare,,,20162
+3,Krater,Magmar Aspects,5,Minion,Mythron,Common,,,455
+3,Moloki Huntress,Magmar Aspects,5,Minion,Shim'Zar,Epic,,,423
+3,Oropsisaur,Magmar Aspects,5,Minion,Mythron,Legendary,,,454
+3,Primordial Gazer,Magmar Aspects,5,Minion,Core,Common,,,410
+3,Ragebinder,Magmar Aspects,5,Minion,Ancients,Common,,Golem,432
+3,Tectonic Spikes,Magmar Aspects,5,Spell,Ancients,Rare,,,20234
+3,Terradon,Magmar Aspects,5,Minion,Unearthed,Common,,,437
+3,Thraex,Magmar Aspects,5,Minion,Ancients,Common,,,429
+3,Twin Fang,Magmar Aspects,5,Artifact,Core,Legendary,,,30017
+3,Upper Hand,Magmar Aspects,5,Spell,Immortal,Common,,,20338
+3,Verdant Fulmination,Magmar Aspects,5,Spell,Unearthed,Epic,,,20296
+3,Vindicator,Magmar Aspects,5,Minion,Core,Legendary,,,417
+4,Adamantite Claws,Magmar Aspects,5,Artifact,Core,Common,,,30012
+4,Beastclad Hunter,Magmar Aspects,5,Minion,Mythron,Rare,,,453
+4,Blood Rage,Magmar Aspects,5,Spell,Unearthed,Common,,,20297
+4,Drogon,Magmar Aspects,5,Minion,Ancients,Legendary,,,428
+4,Earth Sister Taygete,Magmar Aspects,5,Minion,Core,Legendary,,,419
+4,Earth Sphere,Magmar Aspects,5,Spell,Core,Common,,,20117
+4,Egg Morph,Magmar Aspects,5,Spell,Core,Rare,,,20157
+4,Elucidator,Magmar Aspects,5,Minion,Core,Rare,,,407
+4,Gargantuan Growth,Magmar Aspects,5,Spell,Mythron,Rare,,,20370
+4,Gigaloth,Magmar Aspects,5,Minion,Immortal,Legendary,,,445
+4,Grimrock,Magmar Aspects,5,Minion,Core,Common,,,403
+4,Haruspex,Magmar Aspects,5,Minion,Mythron,Legendary,,,458
+4,Homeostatic Rebuke,Magmar Aspects,5,Spell,Immortal,Epic,,,20344
+4,Mind Steal,Magmar Aspects,5,Spell,Core,Epic,,,20156
+4,Omniseer,Magmar Aspects,5,Minion,Unearthed,Rare,,,440
+4,Progenitor,Magmar Aspects,5,Minion,Immortal,Legendary,,,441
+4,Pupabomb,Magmar Aspects,5,Spell,Immortal,Epic,,,20319
+4,Rizen,Magmar Aspects,5,Minion,Unearthed,Epic,,,435
+4,Thumping Wave,Magmar Aspects,5,Spell,Shim'Zar,Rare,,,20218
+4,Valknu's Seal,Magmar Aspects,5,Spell,Ancients,Epic,,,20245
+4,Veteran Silithar,Magmar Aspects,5,Minion,Core,Common,,,413
+4,Wild Inceptor,Magmar Aspects,5,Minion,Shim'Zar,Common,,,422
+5,Kolossus,Magmar Aspects,5,Minion,Core,Common,,,404
+5,Lavaslasher,Magmar Aspects,5,Minion,Ancients,Epic,,Golem,433
+5,Morin-Khur,Magmar Aspects,5,Artifact,Shim'Zar,Legendary,,,452
+5,Mortar-maw,Magmar Aspects,5,Minion,Mythron,Epic,,,20206
+5,Nature's Confluence,Magmar Aspects,5,Spell,Shim'Zar,Epic,,,20122
+5,Plasma Storm,Magmar Aspects,5,Spell,Core,Common,,,415
+5,Spirit Harvester,Magmar Aspects,5,Minion,Core,Rare,,,426
+5,Visionar,Magmar Aspects,5,Minion,Shim'Zar,Epic,,,447
+6,Armada,Magmar Aspects,5,Minion,Immortal,Epic,,,20124
+6,Chrysalis Burst,Magmar Aspects,5,Spell,Core,Legendary,,,424
+6,Dreadnought,Magmar Aspects,5,Minion,Shim'Zar,Legendary,,,20063
+6,Fractal Replication,Magmar Aspects,5,Spell,Core,Epic,,,405
+6,Makantor Warbeast,Magmar Aspects,5,Minion,Core,Epic,,,20121
+6,Metamorphosis,Magmar Aspects,5,Spell,Core,Legendary,,,30025
+7,Bounded Lifeforce,Magmar Aspects,5,Spell,Core,Epic,,,20118
+7,Evolutionary Apex,Magmar Aspects,5,Spell,Unearthed,Legendary,,,20292
+7,Silithar Elder,Magmar Aspects,5,Minion,Core,Legendary,,,414
+7,Unstable Leviathan,Magmar Aspects,5,Minion,Core,Rare,,,408
+8,Extinction Event,Magmar Aspects,5,Spell,Mythron,Legendary,,,20383
+8,Flaming Stampede,Magmar Aspects,5,Spell,Shim'Zar,Legendary,,,20219
+8,Juggernaut,Magmar Aspects,5,Minion,Ancients,Legendary,,Golem,434
+8,Saurian Finality,Magmar Aspects,5,Spell,Immortal,Legendary,,,20339
+9,Grandmaster Kraigon,Magmar Aspects,5,Minion,Core,Legendary,,,436
+12,Mandrake,Magmar Aspects,5,Minion,Shim'Zar,Rare,,,425
+0,Essence Sculpt,Vanar Kindred,6,Spell,Immortal,Rare,,,20329
+0,Faie Bloodwing,Vanar Kindred,6,General,Core,Basic,,,501
+0,Flash Freeze,Vanar Kindred,6,Spell,Core,Common,,,20139
+0,Ilena Cryobyte,Vanar Kindred,6,General,Core,Basic,,,558
+0,Kara Winterblade,Vanar Kindred,6,General,Core,Basic,,,527
+0,Polarity,Vanar Kindred,6,Spell,Core,Common,,,20150
+1,Aspect of Ego,Vanar Kindred,6,Spell,Mythron,Rare,,,20393
+1,Iceshatter Gauntlet,Vanar Kindred,6,Artifact,Ancients,Rare,,,30031
+1,Mesmerize,Vanar Kindred,6,Spell,Core,Rare,,,20138
+1,Snow Chaser,Vanar Kindred,6,Minion,Core,Rare,,Vespyr,510
+1,The Dredger,Vanar Kindred,6,Artifact,Unearthed,Legendary,,,30035
+1,Vespyric Call,Vanar Kindred,6,Spell,Shim'Zar,Epic,,,20209
+1,Wanderlust,Vanar Kindred,6,Spell,Mythron,Common,,,20375
+2,Aspect of the Bear,Vanar Kindred,6,Spell,Immortal,Common,,,20324
+2,Aspect of the Ravager,Vanar Kindred,6,Spell,Core,Common,,,20144
+2,Bonechill Barrier,Vanar Kindred,6,Spell,Core,Common,,Vespyr,20149
+2,Borean Bear,Vanar Kindred,6,Minion,Core,Common,,Vespyr,512
+2,Boundless Courage,Vanar Kindred,6,Spell,Core,Epic,,,20137
+2,Bur,Vanar Kindred,6,Minion,Shim'Zar,Rare,,Battle Pet,531
+2,Chromatic Cold,Vanar Kindred,6,Spell,Core,Common,,,20134
+2,Circulus,Vanar Kindred,6,Minion,Ancients,Epic,,Arcanyst,540
+2,Coldbiter,Vanar Kindred,6,Artifact,Core,Legendary,,,30016
+2,Concealing Shroud,Vanar Kindred,6,Spell,Ancients,Rare,,,20228
+2,Cryoblade,Vanar Kindred,6,Minion,Immortal,Common,,,555
+2,Crystal Arbiter,Vanar Kindred,6,Minion,Unearthed,Common,,Vespyr,550
+2,Crystal Cloaker,Vanar Kindred,6,Minion,Core,Common,,Vespyr,505
+2,Crystal Wisp,Vanar Kindred,6,Minion,Core,Common,,,506
+2,Frigid Corona,Vanar Kindred,6,Spell,Ancients,Common,,,20237
+2,Frostfire,Vanar Kindred,6,Spell,Core,Common,,,20135
+2,Gravity Well,Vanar Kindred,6,Spell,Core,Legendary,,,20147
+2,Hailstone Prison,Vanar Kindred,6,Spell,Core,Common,,,20160
+2,Hearth-Sister,Vanar Kindred,6,Minion,Core,Common,,,517
+2,Icy,Vanar Kindred,6,Minion,Shim'Zar,Common,,Battle Pet,530
+2,Lightning Blitz,Vanar Kindred,6,Spell,Shim'Zar,Common,,,20211
+2,Mana Deathgrip,Vanar Kindred,6,Spell,Ancients,Common,,,20261
+2,Mark of Solitude,Vanar Kindred,6,Spell,Core,Rare,,,20140
+2,Protosensor,Vanar Kindred,6,Minion,Immortal,Common,,,554
+2,Resonance Scythe,Vanar Kindred,6,Artifact,Mythron,Epic,,,30056
+2,Shatter,Vanar Kindred,6,Spell,Immortal,Common,,,20337
+2,Shivers,Vanar Kindred,6,Minion,Unearthed,Epic,,Vespyr,545
+2,Thicket Augur,Vanar Kindred,6,Minion,Mythron,Common,,,567
+3,Aspect of Shim'Zar,Vanar Kindred,6,Spell,Shim'Zar,Common,,,20214
+3,Blazing Spines,Vanar Kindred,6,Spell,Core,Rare,,,20148
+3,Cryonic Potential,Vanar Kindred,6,Spell,Mythron,Common,,,20371
+3,Crystalline Reinforcement,Vanar Kindred,6,Spell,Immortal,Epic,,,20347
+3,Disciple of Yggdra,Vanar Kindred,6,Minion,Mythron,Legendary,,,565
+3,Drake Dowager,Vanar Kindred,6,Minion,Unearthed,Rare,,,548
+3,Fenrir Warmaster,Vanar Kindred,6,Minion,Core,Common,,,503
+3,Freeblade,Vanar Kindred,6,Minion,Unearthed,Common,,,547
+3,Glacial Elemental,Vanar Kindred,6,Minion,Core,Rare,,Vespyr,519
+3,Glacial Fissure,Vanar Kindred,6,Spell,Unearthed,Epic,,,20266
+3,Iceblade Dryad,Vanar Kindred,6,Minion,Shim'Zar,Epic,,Vespyr,533
+3,Kindred Hunter,Vanar Kindred,6,Minion,Ancients,Common,,Arcanyst,539
+3,Moonlit Basilysk,Vanar Kindred,6,Minion,Unearthed,Rare,,,549
+3,Myriad,Vanar Kindred,6,Minion,Ancients,Common,,Vespyr,536
+3,Permafrost,Vanar Kindred,6,Spell,Mythron,Epic,,,20394
+3,Snow Rippler,Vanar Kindred,6,Minion,Shim'Zar,Common,,Vespyr,529
+3,Snowpiercer,Vanar Kindred,6,Artifact,Core,Common,,,30015
+3,Wolfraven,Vanar Kindred,6,Minion,Core,Common,,,511
+4,Aspect of the Wyrm,Vanar Kindred,6,Spell,Core,Epic,,,20145
+4,Avalanche,Vanar Kindred,6,Spell,Core,Common,,,20136
+4,Blinding Snowstorm,Vanar Kindred,6,Spell,Unearthed,Common,,,20298
+4,Cryogenesis,Vanar Kindred,6,Spell,Core,Common,,,20165
+4,Denadoro,Vanar Kindred,6,Minion,Immortal,Legendary,,,557
+4,Endless Hunt,Vanar Kindred,6,Spell,Mythron,Rare,,,20391
+4,Hydrogarm,Vanar Kindred,6,Minion,Immortal,Epic,,Vespyr,542
+4,Malicious Wisp,Vanar Kindred,6,Minion,Mythron,Epic,,,561
+4,Meltwater Moose,Vanar Kindred,6,Minion,Mythron,Common,,Vespyr,563
+4,Razorback,Vanar Kindred,6,Minion,Core,Rare,,,513
+4,Sleet Dasher,Vanar Kindred,6,Minion,Ancients,Rare,,,537
+4,Voice of the Wind,Vanar Kindred,6,Minion,Core,Legendary,,,515
+4,Wailing Overdrive,Vanar Kindred,6,Spell,Shim'Zar,Common,,,20208
+4,White Asp,Vanar Kindred,6,Artifact,Shim'Zar,Legendary,,,30021
+4,Wind Sister Maia,Vanar Kindred,6,Minion,Core,Legendary,,,528
+4,Winterblade,Vanar Kindred,6,Artifact,Core,Epic,,,30019
+4,Wintertide,Vanar Kindred,6,Spell,Immortal,Epic,,,20330
+5,Animus Plate,Vanar Kindred,6,Artifact,Immortal,Rare,,,30040
+5,Arctic Displacer,Vanar Kindred,6,Minion,Core,Common,,Vespyr,526
+5,Auroraboros,Vanar Kindred,6,Spell,Immortal,Legendary,,,20343
+5,Cloudcaller,Vanar Kindred,6,Minion,Mythron,Legendary,,,560
+5,Enfeeble,Vanar Kindred,6,Spell,Ancients,Epic,,,20229
+5,Fenrir Berserker,Vanar Kindred,6,Minion,Mythron,Common,,,562
+5,Frosthorn Rhyno,Vanar Kindred,6,Minion,Core,Epic,,,507
+5,Frostiva,Vanar Kindred,6,Minion,Shim'Zar,Legendary,,,534
+5,Huldra,Vanar Kindred,6,Minion,Shim'Zar,Rare,,,532
+5,Luminous Charge,Vanar Kindred,6,Spell,Core,Rare,,,20276
+5,Spirit of the Wild,Vanar Kindred,6,Spell,Core,Epic,,,20163
+5,Vespyrian Might,Vanar Kindred,6,Spell,Unearthed,Common,,,20289
+6,Aspect of the Mountains,Vanar Kindred,6,Spell,Core,Legendary,,,20146
+6,Draugar Eyolith,Vanar Kindred,6,Minion,Immortal,Legendary,,,556
+6,Draugar Lord,Vanar Kindred,6,Minion,Core,Epic,,Vespyr,508
+6,Echo Deliverant,Vanar Kindred,6,Minion,Immortal,Rare,,Mech,552
+6,Frostburn,Vanar Kindred,6,Spell,Core,Common,,,20207
+6,Icebreak Ambush,Vanar Kindred,6,Spell,Unearthed,Epic,,,20295
+7,Ancient Grove,Vanar Kindred,6,Minion,Core,Legendary,,Vespyr,514
+7,Flawless Reflection,Vanar Kindred,6,Spell,Unearthed,Legendary,,,20293
+7,Ghost Seraphim,Vanar Kindred,6,Minion,Ancients,Legendary,,Arcanyst,541
+7,Ice Age,Vanar Kindred,6,Spell,Mythron,Legendary,,,538
+8,Grandmaster Embla,Vanar Kindred,6,Minion,Core,Legendary,,,20359
+8,Matron Elveiti,Vanar Kindred,6,Minion,Unearthed,Legendary,,,543
+8,Winter's Wake,Vanar Kindred,6,Spell,Shim'Zar,Legendary,,,20212

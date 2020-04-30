@@ -19,7 +19,7 @@ expansions = ['Core', 'Denizens of Shim\'zar', 'Bloodbound Ancients',
 rarities = ['Common', 'Rare', 'Epic', 'Legendary']
 '''
 
-card_csv = pd.read_csv('DC.csv')
+card_csv = pd.read_csv('Data/DC.csv')
 ch = None
 	
 def draftsim():

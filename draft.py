@@ -164,5 +164,5 @@ def fkeylist(bucket,nnum,fkey):
 
 d = draftsim()
 describedeck(d)
-url = 'https://bagoum.com/deckbuilder#'+encodedeck(d)
+url = 'https://dl.bagoum.com/deckbuilder#'+encodedeck(d)
 webbrowser.open(url)
